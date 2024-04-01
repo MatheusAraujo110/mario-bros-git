@@ -16,4 +16,4 @@ Apresento a vocês mais um projeto realizado: Mario Bros.</p>
 <p>Fico feliz demais em está conseguindo desenvolver mais um projeto e um busca do meu primeiro sim! </p>
 <br>
 <p>Deploy: http://127.0.0.1:5500/index.html</p>
-<p>GitHub: https://github.com/MatheusAraujo110/mario-bros-git/edit/main/README.md</p>
+<p>GitHub: https://github.com/MatheusAraujo110/mario-bros-git?tab=readme-ov-file</p>
